@@ -64,8 +64,8 @@ Um aplicativo de delivery desenvolvido em **React Native**, com inspiração em 
 
 ## 🖼️ Demonstração
 
-<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.10_caf0fef7.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
-<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.12_7a9d50d3.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
+<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.10_caf0fef7.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="300">
+<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.12_7a9d50d3.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="300">
 
 ## 🤝 Agradecimentos
 
