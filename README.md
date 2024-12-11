@@ -1,50 +1,78 @@
-# Welcome to your Expo app 👋
+# Delivery App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo de delivery desenvolvido em **React Native**, com inspiração em um tutorial do YouTube do **Dev Fraga**. Este projeto simula o fluxo de um app de entregas, incluindo listagem de produtos, carrinho de compras e detalhes de pedidos, oferecendo uma experiência prática e dinâmica.
 
-## Get started
+## 🛠️ Funcionalidades
 
-1. Install dependencies
+- **Listagem de Produtos**: Exibe os itens disponíveis para compra, com imagens e descrições detalhadas.
+- **Carrinho de Compras**: Adiciona e remove produtos, exibindo o total atualizado.
+- **Detalhes de Pedido**: Mostra informações completas sobre os produtos selecionados antes da confirmação.
+- **Navegação Intuitiva**: Transição suave entre telas, utilizando **React Navigation**.
+- **Design Responsivo**: Interface adaptada para diferentes tamanhos de tela.
+
+## 🧰 Tecnologias Utilizadas
+
+- **React Native**: Framework para desenvolvimento do aplicativo.
+- **Expo**: Ambiente para teste e execução do projeto.
+- **React Navigation**: Gerenciamento de navegação entre telas.
+- **JavaScript**: Linguagem de programação principal.
+- **Estilização**: CSS-in-JS para criar interfaces modernas e atraentes.
+
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/devfraga/delivery-rn-youtube.git
+
+   ```
+
+2. Acesse o diretório do projeto:
+
+   ```bash
+   cd delivery-rn-youtube
+
+   ```
+
+3. Instale as dependências:
 
    ```bash
    npm install
+
    ```
 
-2. Start the app
-
+4. Inicie o projeto no Expo:
    ```bash
-    npx expo start
+   expo start
    ```
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📂 Estrutura do Projeto
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **screens/**: Contém as telas principais, como listagem de produtos, carrinho e detalhes do pedido.
+- **components/**: Componentes reutilizáveis para botões, cards de produtos, entre outros.
+- **navigation/**: Configuração de rotas e navegação.
+- **assets/**: Imagens e recursos utilizados no projeto.
+- **styles/**: Estilizações específicas para as telas e componentes.
 
-## Get a fresh project
+## 🖼️ Demonstração
 
-When you're ready, run:
+<img src="Imagem do WhatsApp de 2024-12-11 à(s) 19.32.10_caf0fef7.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
+<img src="Imagem do WhatsApp de 2024-12-11 à(s) 19.32.12_7a9d50d3.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
 
-```bash
-npm run reset-project
-```
+## 🤝 Agradecimentos
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Este projeto foi inspirado e desenvolvido com base no tutorial do Sujeito Programador no YouTube. Agradeço pelo conteúdo detalhado e educativo, que permitiu a criação deste aplicativo.
 
-## Learn more
+## Contato
 
-To learn more about developing your project with Expo, look at the following resources:
+Se tiver dúvidas ou quiser discutir ideias e oportunidades, sinta-se à vontade para entrar em contato:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- **E-mail**: [kauansantana2721@gmail.com](mailto:kauansantana2721@gmail.com)
+- **LinkedIn**: [linkedin.com/in/devsantx](https://www.linkedin.com/in/devsantx)
+- **GitHub**: [github.com/devsantx](https://github.com/devsantx)
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Este projeto é atualizado regularmente e faz parte do meu aprendizado contínuo. Obrigado por visitar e explorar meu trabalho!
