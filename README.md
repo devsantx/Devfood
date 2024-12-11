@@ -42,8 +42,14 @@ Um aplicativo de delivery desenvolvido em **React Native**, com inspiração em 
    ```
 
 4. Inicie o projeto no Expo:
+
    ```bash
    expo start
+   ```
+
+5. Inicie a API
+   ```bash
+   npx json-server db.json
    ```
 
 ---
@@ -58,8 +64,8 @@ Um aplicativo de delivery desenvolvido em **React Native**, com inspiração em 
 
 ## 🖼️ Demonstração
 
-<img src="Imagem do WhatsApp de 2024-12-11 à(s) 19.32.10_caf0fef7.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
-<img src="Imagem do WhatsApp de 2024-12-11 à(s) 19.32.12_7a9d50d3.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
+<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.10_caf0fef7.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
+<img src="imagens do projeto/Imagem do WhatsApp de 2024-12-11 à(s) 19.32.12_7a9d50d3.jpg" alt="Imagem da tela principal do aplicativo, contendo um banner, comidas em alta, comidas novas e famosos no devfood" width="345">
 
 ## 🤝 Agradecimentos
 
@@ -76,3 +82,7 @@ Se tiver dúvidas ou quiser discutir ideias e oportunidades, sinta-se à vontade
 ---
 
 Este projeto é atualizado regularmente e faz parte do meu aprendizado contínuo. Obrigado por visitar e explorar meu trabalho!
+
+```
+
+```
