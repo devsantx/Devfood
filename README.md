@@ -85,7 +85,3 @@ Se tiver dúvidas ou quiser discutir ideias e oportunidades, sinta-se à vontade
 ---
 
 Este projeto é atualizado regularmente e faz parte do meu aprendizado contínuo. Obrigado por visitar e explorar meu trabalho!
-
-```
-
-```
